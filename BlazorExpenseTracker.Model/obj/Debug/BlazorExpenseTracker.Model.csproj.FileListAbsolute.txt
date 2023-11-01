@@ -1,0 +1,6 @@
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorExpenseTracker.Model\bin\Debug\BlazorExpenseTracker.Model.dll
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorExpenseTracker.Model\bin\Debug\BlazorExpenseTracker.Model.pdb
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorExpenseTracker.Model\obj\Debug\BlazorExpenseTracker.Model.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorExpenseTracker.Model\obj\Debug\BlazorExpenseTracker.Model.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorExpenseTracker.Model\obj\Debug\BlazorExpenseTracker.Model.dll
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorExpenseTracker.Model\obj\Debug\BlazorExpenseTracker.Model.pdb

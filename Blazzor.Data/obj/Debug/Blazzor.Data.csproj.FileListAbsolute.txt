@@ -1,0 +1,9 @@
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\bin\Debug\Blazzor.Data.dll
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\bin\Debug\Blazzor.Data.pdb
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\bin\Debug\BlazorExpenseTracker.Model.dll
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\bin\Debug\BlazorExpenseTracker.Model.pdb
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\obj\Debug\Blazzor.Data.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\obj\Debug\Blazzor.Data.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\obj\Debug\Blazzor.Data.csproj.CopyComplete
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\obj\Debug\Blazzor.Data.dll
+C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\Blazzor.Data\obj\Debug\Blazzor.Data.pdb

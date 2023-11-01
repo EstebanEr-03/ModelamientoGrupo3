@@ -1,0 +1,42 @@
+﻿@page "/Index"
+
+
+<h3>BloquesDeCodigo</h3>
+<!---Blques que no se renderizan en html->
+@{
+    var mensaje = "C# variable";
+    <span>En razor podemos combinar HTML con @mensaje</span>
+    var codeBlock = "Este es el valor ";
+}
+
+<span>@codeBlock</span>
+
+<!---Importa el orden->
+@{
+    codeBlock = "Este es el valor acualizado ";
+}
+
+@{
+    codeBlock = "Este es el valor acualizado ";
+}
+<span>@codeBlock</span>
+
+<!---Definir seccion que debe ser renderizada como html dentro del codigo ->
+
+<!-@for(var i = 0,i<clientes.Count; i++)
+{
+    var cliente = clientes[i];
+    <text>Nombre: @cliente.Nombre</text>
+}
+
+@{
+
+        protected class Cliente { public string Nombre { get; set; } }
+        private List<Cliente> clientes = new List<Cliente>
+        {new Cliente {Nombre="Jhon"}, new Cliente{Nombre="Mark"}};
+
+}-->
+
+@code {
+
+}

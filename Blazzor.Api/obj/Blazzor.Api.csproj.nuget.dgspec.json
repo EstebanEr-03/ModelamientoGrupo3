@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Api\\Blazzor.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
+        "projectName": "BlazorExpenseTracker.Model",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Api\\Blazzor.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Api\\Blazzor.Api.csproj",
+        "projectName": "Blazzor.Api",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Api\\Blazzor.Api.csproj",
+        "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj"
+              },
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Data\\Blazzor.Data.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Data\\Blazzor.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Data\\Blazzor.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Data\\Blazzor.Data.csproj",
+        "projectName": "Blazzor.Data",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\Blazzor.Data\\Blazzor.Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\Udemy\\BlazorPresentacionGrupoTres\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

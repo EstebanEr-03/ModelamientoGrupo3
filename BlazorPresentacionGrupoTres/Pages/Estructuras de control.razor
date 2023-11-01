@@ -1,0 +1,62 @@
+﻿<h3>Estructuras_de_control</h3>
+
+@code {
+    protected class Cliente { public string Nombre { get; set; } }
+    private List<Cliente> clientes = new List<Cliente>
+    {new Cliente {Nombre="Jhon"}, new Cliente{Nombre="Mark"}};
+}
+
+<!--IF-->
+@if(clientes.Count > 0)
+{
+    <p>Hay mas clientes que 0</p>
+}
+<p>Razor comprende que se acabo el if</p>
+
+
+
+else if (clientes.Count == 0)
+{
+    <p>No Hay mas clientes</p>
+}
+else
+{
+    <p>menor a 0</p>
+}
+
+<!--switch-->
+@switch(clientes[0].Nombre){}
+{
+    case "John";
+    <p>Hola jhon</p>
+    break;
+}
+<!---@for(var i = 0,i<clientes.Count; i++)
+{
+    var cliente = clientes[i];
+    <text>Nombre: @cliente.Nombre</text>
+}-->
+<!---@foreach(var item in collection)
+{
+    <p>Nombre: @item.Nombre</p>
+}-->
+
+<!---
+@{var i=0;}}    
+
+@while(i < clientes.Count())
+{
+    var cliente = clientes[i];
+    <p>Nombre: @cliente.Nombr</p>
+    i++;
+}-->
+<!---
+@{var i=0;}}    
+
+@do
+{
+    var cliente = clientes[i];
+    <p>Nombre: @cliente.Nombr</p>
+    i++;
+} while(i<clientes.Count)-->
+

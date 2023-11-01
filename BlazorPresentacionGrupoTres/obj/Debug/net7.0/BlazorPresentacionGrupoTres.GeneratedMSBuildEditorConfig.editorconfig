@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorPresentacionGrupoTres
+build_property.RootNamespace = BlazorPresentacionGrupoTres
+build_property.ProjectDir = C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorPresentacionGrupoTres\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\esteb\OneDrive\Escritorio\Quinto Semestr\Progra IV\Udemy\BlazorPresentacionGrupoTres\BlazorPresentacionGrupoTres
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/BloquesDeCodigo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvcXVlc0RlQ29kaWdvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/Directivas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlyZWN0aXZhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/Estructuras de control.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0cnVjdHVyYXMgZGUgY29udHJvbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/RazorSintaxis.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JTaW50YXhpcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6hkmyx39c0
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-idp6u8bdos
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esteb/OneDrive/Escritorio/Quinto Semestr/Progra IV/Udemy/BlazorPresentacionGrupoTres/BlazorPresentacionGrupoTres/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

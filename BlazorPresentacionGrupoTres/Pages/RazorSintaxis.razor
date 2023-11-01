@@ -1,0 +1,27 @@
+﻿@page "/razor"
+<h3>RazorSintaxis</h3>
+<!--@if (elementos == null)
+{
+    <p>Loading....</p>
+}-->
+<span>@(2+2)</span> 
+<span>@@UserName</span>
+<a href="mailto:thecodercave@gmail.com">thecodercave@gmail.com</a>
+
+<!--Expresiones implicitas-->
+<!--Comiezan con "ARROBA" y son seguidas por codigo C#>
+
+<p>@DateTime.Now</p>
+
+<!--No pueden contener espacios expecto...-->
+
+<!--- <p>@await CallMethod("with some","parameters")</p>---->
+
+
+<!--Expresiones Explicitas-->
+<!--Comienza por arroba y esta rodeada por parentesis-->
+<p>Hace un mes la fecha fue: @(DateTime.Now - TimeSpan.FromDays(30))</p>
+
+@code {
+
+}
